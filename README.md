@@ -15,3 +15,5 @@ Script bat para limpar temporários do Windows
 <p> Somente comandos via PROMPT armazenados em batch file. </p>
 <h2> Sobre </h2>
 <p> Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
+<h3>Vídeo de apoio/apresentação</h3>
+<a href="https://www.youtube.com/user/crispdg">Prof. Cristiano José Cecanho</a>
